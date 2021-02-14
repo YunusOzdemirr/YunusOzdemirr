@@ -1,9 +1,5 @@
 ### Hi I'm Yunus Ozdemir
 
-- 🔭 I’m working on C# and .Net
-- 🌱 I’m learning .Net
-- 📫 How to reach me: https://www.linkedin.com/in/yunus-%C3%B6zdemir-61b5a11a6/ or yunusozdemir468@gmail.com
-
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunusozdemirr&label=Profile%20views&color=0e75b6&style=flat" alt="yunusozdemirr" /> </p>
