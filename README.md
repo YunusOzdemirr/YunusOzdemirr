@@ -6,6 +6,4 @@
 <a href="https://www.linkedin.com/in/yunus-%C3%B6zdemir-61b5a11a6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yunus özdemir" height="30" width="40" /></a>
 <a href="https://instagram.com/yuunusozdemir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yuunusozdemir" height="30" width="40" /></a>
 </p>
- 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunusOzdemirr&theme=radical&show_icons=true)
