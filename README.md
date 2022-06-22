@@ -1,6 +1,6 @@
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-<p>👨🏻‍💻 I am currently using dotnet developer</p>
+<p>👨🏻‍💻 I am currently using dotnet</p>
 <p>📚 I am currently learning golang and solidity</p>
 
 
