@@ -1,7 +1,7 @@
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-<p>I am currently using dotnet developer</p>
-<p>I am currently learning golang and solidity</p>
+<p>👨🏻‍💻 I am currently using dotnet developer</p>
+<p>📚 I am currently learning golang and solidity</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunusozdemirr&label=Profile%20views&color=0e75b6&style=flat" alt="yunusozdemirr" /> </p>
