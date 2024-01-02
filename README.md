@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Mid Backend Developer from Turkey</h3>
 
-<p>👨🏻‍💻 I am currently using dotnet</p>
+<p>👨🏻‍💻 I am currently using dotnet and angular</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunusozdemirr&label=Profile%20views&color=0e75b6&style=flat" alt="yunusozdemirr" /> </p>
